@@ -15,8 +15,8 @@
         "name": "S.P. 04 Lecce-Novoli",
         "TIPO": "Autovelox Fisso",
         "INDIRIZZO": "Strada Provinciale 04 Lecce-Novoli",
-	"KM": "5+760"
-        "DIREZIONE": "Lecce",
+	"DIREZIONE": "Lecce",
+	"KM": "5+760",
         "LIMITE": "50 Km/h"
       }
     },
