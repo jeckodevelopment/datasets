@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 This repo hosts some open datasets.
 
 ## Available datasets
