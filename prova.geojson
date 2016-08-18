@@ -15,6 +15,141 @@
         "Indirizzo": "Corso Dante, 95 / Via Cesare Battisti",
         "Città": "Acquarica del Capo"
       }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.254936,
+          39.903770
+        ]
+      },
+      "properties": {
+        "ID": "2",
+        "Indirizzo": "Via Giuseppe di Vittorio / Via Aldo Moro / Via Epifanio Colletta",
+        "Città": "Acquarica del Capo"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.2481832,
+          39.910074
+        ]
+      },
+      "properties": {
+        "ID": "3",
+        "Indirizzo": "Corso Giacomo Matteotti / Via della Repubblica",
+        "Città": "Acquarica del Capo"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.333864,
+          39.893754
+        ]
+      },
+      "properties": {
+        "ID": "4",
+        "Indirizzo": "S.S. 275, 73 / Via G. Urro / Via Portanova",
+        "Città": "Alessano"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.011358,
+          40.400219
+        ]
+      },
+      "properties": {
+        "ID": "5",
+        "Indirizzo": "S.S. 7 Ter / Via Medaglie d'Oro / Via Maremonti / Via Vecchia Guagnano",
+        "Città": "Campi Salentina"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.022619,
+          40.400238
+        ]
+      },
+      "properties": {
+        "ID": "6",
+        "Indirizzo": " S.S. 7 Ter / Viale Nino di Palma, 37 / Via Puglia",
+        "Città": "Campi Salentina"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.025810,
+          40.402989
+        ]
+      },
+      "properties": {
+        "ID": "7",
+        "Indirizzo": "Via Baden Powell / Via Piemonte",
+        "Città": "Campi Salentina"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.356554,
+          39.834916
+        ]
+      },
+      "properties": {
+        "ID": "8",
+        "Indirizzo": "S.P. 351 / Via Roma / Via Col. Galliano / Via Fiume",
+        "Città": "Castrignano del Capo"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.179157,
+          40.334352
+        ]
+      },
+      "properties": {
+        "ID": "9",
+        "Indirizzo": "Via Leuca, 45 / Via Enrico De Nicola / Via Gioacchino Rossini",
+        "Città": "Castromediano"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.440552,
+          40.063456
+        ]
+      },
+      "properties": {
+        "ID": "10",
+        "Indirizzo": "S.P. 61 / Via Santa Cesarea / Via Paluscella / S.P. 234 / Via Cadorna",
+        "Città": "Cerfignano - Santa Cesarea Terme"
+      }
     }
   ]
 }
