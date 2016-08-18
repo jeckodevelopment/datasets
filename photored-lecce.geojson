@@ -346,7 +346,7 @@
         "Città": "Lecce"
       }
     },
-		{
+	{
       "type": "Feature",
       "geometry": {
         "type": "Point",
@@ -359,6 +359,96 @@
         "ID": "24",
         "Indirizzo": "S.P. 364 (Lecce - San Cataldo) / Via Roggerone / Svincolo Tangenziale Est",
         "Città": "Lecce"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.212640,
+          40.314575
+        ]
+      },
+      "properties": {
+        "ID": "25",
+        "Indirizzo": "S.P. 241 / Via Vecchia Lizzanello / Via Ugo Foscolo",
+        "Città": "Lizzanello"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.015497,
+          39.973472
+        ]
+      },
+      "properties": {
+        "ID": "26",
+        "Indirizzo": "S.P. 215, 2 / Via Ortisei / S.P. 330",
+        "Città": "Marina di Mancaversa (Taviano)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.438621,
+          40.253833
+        ]
+      },
+      "properties": {
+        "ID": "27",
+        "Indirizzo": "S.P. 366 / Via Lungomare Matteotti / S.P. 148",
+        "Città": "Torre Sant'Andrea (Melendugno)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.343943,
+          40.279108
+        ]
+      },
+      "properties": {
+        "ID": "28",
+        "Indirizzo": "S.P. 145, 47 / Viale Luigi Einaudi",
+        "Città": "Melendugno"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.396636,
+          40.307054
+        ]
+      },
+      "properties": {
+        "ID": "29",
+        "Indirizzo": "S.P. 366, Km 13 / Via Lungomare Matteotti",
+        "Città": "San Foca (Melendugno)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.305183,
+          39.964974
+        ]
+      },
+      "properties": {
+        "ID": "30",
+        "Indirizzo": "S.P. 374, 4 / Via Dante Alighieri / Via Papa Giovanni XXIII",
+        "Città": "Miggiano"
       }
     }
  ]
