@@ -12,8 +12,8 @@
       },
       "properties": {
         "ID": "1",
-        "INDIRIZZO": "Corso Dante, 95 / Via Cesare Battisti",
-        "Città": "Acquarica del Capo",
+        "Indirizzo": "Corso Dante, 95 / Via Cesare Battisti",
+        "Citt&agrave;": "Acquarica del Capo",
       }
     }
   ]
