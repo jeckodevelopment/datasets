@@ -148,8 +148,218 @@
       "properties": {
         "ID": "10",
         "Indirizzo": "S.P. 61 / Via Santa Cesarea / Via Paluscella / S.P. 234 / Via Cadorna",
-        "Città": "Cerfignano - Santa Cesarea Terme"
+        "Città": "Cerfignano (Santa Cesarea Terme)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.154770,
+          40.065995
+        ]
+      },
+      "properties": {
+        "ID": "11",
+        "Indirizzo": "Via Roma, 246 / S.P. 361 / Via Pietro Siciliani",
+        "Città": "Collepasso"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.079510,
+          40.148764
+        ]
+      },
+      "properties": {
+        "ID": "12",
+        "Indirizzo": "S.P. 47 / Via Massimo D'Azeglio, 23 / Via Giorgio Almirante",
+        "Città": "Galatone"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.065842,
+          40.140718
+        ]
+      },
+      "properties": {
+        "ID": "13",
+        "Indirizzo": "Via Gallipoli, 54 / Viale VIII Marzo / Via S. Nicola di Pergoleto",
+        "Città": "Galatone"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.061455,
+          40.146811
+        ]
+      },
+      "properties": {
+        "ID": "14",
+        "Indirizzo": "S.P. 90, 38 / Via S. Nicola di Pergoleto / Via del Mare / Via Abbazia / Via Donatori di Sangue",
+        "Città": "Galatone"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.004128,
+          40.057274
+        ]
+      },
+      "properties": {
+        "ID": "15",
+        "Indirizzo": "Corso Italia, 88 / SP 361 / Via Cagliari",
+        "Città": "Gallipoli"
+      }
+    },
+  	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          17.992792,
+          40.055874
+        ]
+      },
+      "properties": {
+        "ID": "16",
+        "Indirizzo": "Via Kennedy / Piazza Giovanni XXIII / Via Lecce Corso Roma / Corso Capo di Leuca",
+        "Città": "Gallipoli"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.171235,
+          40.071904
+        ]
+      },
+      "properties": {
+        "ID": "17",
+        "Indirizzo": "S.P. 361, 177 / Via Principe di Piemonte, 177",
+        "Città": "Collepasso"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.018348,
+          40.058144
+        ]
+      },
+      "properties": {
+        "ID": "18",
+        "Indirizzo": "S.P. 361, 13 / Innesto S.S. 101",
+        "Città": "Gallipoli"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.144855,
+          40.384809
+        ]
+      },
+      "properties": {
+        "ID": "19",
+        "Indirizzo": "Viale dei Pini, 25 / Via 1° Maggio",
+        "Città": "Giorgilorio (Surbo)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.175055,
+          40.362714
+        ]
+      },
+      "properties": {
+        "ID": "20",
+        "Indirizzo": "Viale Ugo Foscolo, 33 / Via Gaetano Argento",
+        "Città": "Lecce"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.184757,
+          40.348003
+        ]
+      },
+      "properties": {
+        "ID": "21",
+        "Indirizzo": "Viale Gioacchino Rossini, 9 / Via Regina Elena / Via Merine",
+        "Città": "Lecce"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.159261,
+          40.343095
+        ]
+      },
+      "properties": {
+        "ID": "22",
+        "Indirizzo": "Viale Giuseppe Grassi, 94 / Via Lequile",
+        "Città": "Lecce"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.188251,
+          40.361658
+        ]
+      },
+      "properties": {
+        "ID": "23",
+        "Indirizzo": "Viale Giovanni Paolo II, 32 / Via Pietro Cavoti / Via Giovanni Stano",
+        "Città": "Lecce"
+      }
+    },
+		{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.2200609,
+          40.3667692
+        ]
+      },
+      "properties": {
+        "ID": "24",
+        "Indirizzo": "S.P. 364 (Lecce - San Cataldo) / Via Roggerone / Svincolo Tangenziale Est",
+        "Città": "Lecce"
       }
     }
-  ]
+ ]
 }
