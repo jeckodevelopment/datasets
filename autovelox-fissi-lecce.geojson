@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.1219354,
+          40.3576676
+        ]
+      },
+      "properties": {
+        "ID": "1",
+        "name": "S.P. 04 Lecce-Novoli",
+        "TIPO": "Autovelox Fisso",
+        "INDIRIZZO": "Strada Provinciale 04 Lecce-Novoli",
+		"KM": "5+760"
+        "DIREZIONE": "Lecce",
+        "LIMITE": "50 Km/h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.340759,
+          40.112302
+        ]
+      },
+      "properties": {
+        "ID": "2",
+        "name": "S.P. 363 Santa Cesarea Terme-Maglie",
+        "TIPO": "Autovelox Fisso",
+        "INDIRIZZO": "Strada Provinciale 363 Santa Cesarea Terme-Maglie",
+		"DIREZIONE": "Maglie",
+        "KM": "25+950",
+        "LIMITE": "70 Km/h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.374228,
+          40.074733
+        ]
+      },
+      "properties": {
+        "ID": "3",
+        "name": "S.P. 363 Maglie-Santa Cesarea Terme",
+        "TIPO": "Autovelox Fisso",
+        "INDIRIZZO": "Strada Provinciale 363 Maglie-Santa Cesarea Terme",
+		"DIREZIONE": "Santa Cesarea Terme",
+        "KM": "31+039",
+        "LIMITE": "70 Km/h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.454607,
+          40.201051
+        ]
+      },
+      "properties": {
+        "ID": "4",
+        "name": "S.P. 366 Otranto-San Cataldo",
+        "TIPO": "Autovelox Fisso",
+        "INDIRIZZO": "Strada Provinciale 366 Otranto-San Cataldo",
+        "DIREZIONE": "San Cataldo",
+        "KM": "27+083",
+		"LIMITE": "50 Km/h"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.45336,
+          40.197448
+        ]
+      },
+      "properties": {
+        "ID": "5",
+		"name": "S.P. 366 San Cataldo-Otranto",
+        "TIPO": "Autovelox Fisso",
+        "INDIRIZZO": "Strada Provinciale 366 San Cataldo-Otranto",
+        "DIREZIONE": "Otranto",
+        "KM": "27+942",
+		"LIMITE": "50 Km/h"
+      }
+    }
+  ]
+}
