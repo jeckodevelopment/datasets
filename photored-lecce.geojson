@@ -13,7 +13,7 @@
       "properties": {
         "ID": "1",
         "Indirizzo": "Corso Dante, 95 / Via Cesare Battisti",
-        "Città": "Acquarica del Capo"
+        "Località": "Acquarica del Capo"
       }
     },
 	{
@@ -28,7 +28,7 @@
       "properties": {
         "ID": "2",
         "Indirizzo": "Via Giuseppe di Vittorio / Via Aldo Moro / Via Epifanio Colletta",
-        "Città": "Acquarica del Capo"
+        "Località": "Acquarica del Capo"
       }
     },
 	{
@@ -43,7 +43,7 @@
       "properties": {
         "ID": "3",
         "Indirizzo": "Corso Giacomo Matteotti / Via della Repubblica",
-        "Città": "Acquarica del Capo"
+        "Località": "Acquarica del Capo"
       }
     },
 	{
@@ -58,7 +58,7 @@
       "properties": {
         "ID": "4",
         "Indirizzo": "S.S. 275, 73 / Via G. Urro / Via Portanova",
-        "Città": "Alessano"
+        "Località": "Alessano"
       }
     },
 	{
@@ -73,7 +73,7 @@
       "properties": {
         "ID": "5",
         "Indirizzo": "S.S. 7 Ter / Via Medaglie d'Oro / Via Maremonti / Via Vecchia Guagnano",
-        "Città": "Campi Salentina"
+        "Località": "Campi Salentina"
       }
     },
 	{
@@ -88,7 +88,7 @@
       "properties": {
         "ID": "6",
         "Indirizzo": " S.S. 7 Ter / Viale Nino di Palma, 37 / Via Puglia",
-        "Città": "Campi Salentina"
+        "Località": "Campi Salentina"
       }
     },
 	{
@@ -103,7 +103,7 @@
       "properties": {
         "ID": "7",
         "Indirizzo": "Via Baden Powell / Via Piemonte",
-        "Città": "Campi Salentina"
+        "Località": "Campi Salentina"
       }
     },
 	{
@@ -118,7 +118,7 @@
       "properties": {
         "ID": "8",
         "Indirizzo": "S.P. 351 / Via Roma / Via Col. Galliano / Via Fiume",
-        "Città": "Castrignano del Capo"
+        "Località": "Castrignano del Capo"
       }
     },
 	{
@@ -133,7 +133,7 @@
       "properties": {
         "ID": "9",
         "Indirizzo": "Via Leuca, 45 / Via Enrico De Nicola / Via Gioacchino Rossini",
-        "Città": "Castromediano"
+        "Località": "Castromediano"
       }
     },
 	{
@@ -148,7 +148,7 @@
       "properties": {
         "ID": "10",
         "Indirizzo": "S.P. 61 / Via Santa Cesarea / Via Paluscella / S.P. 234 / Via Cadorna",
-        "Città": "Cerfignano (Santa Cesarea Terme)"
+        "Località": "Cerfignano (Santa Cesarea Terme)"
       }
     },
 	{
@@ -163,7 +163,7 @@
       "properties": {
         "ID": "11",
         "Indirizzo": "Via Roma, 246 / S.P. 361 / Via Pietro Siciliani",
-        "Città": "Collepasso"
+        "Località": "Collepasso"
       }
     },
 	{
@@ -178,7 +178,7 @@
       "properties": {
         "ID": "12",
         "Indirizzo": "S.P. 47 / Via Massimo D'Azeglio, 23 / Via Giorgio Almirante",
-        "Città": "Galatone"
+        "Località": "Galatone"
       }
     },
 	{
@@ -193,7 +193,7 @@
       "properties": {
         "ID": "13",
         "Indirizzo": "Via Gallipoli, 54 / Viale VIII Marzo / Via S. Nicola di Pergoleto",
-        "Città": "Galatone"
+        "Località": "Galatone"
       }
     },
 	{
@@ -208,7 +208,7 @@
       "properties": {
         "ID": "14",
         "Indirizzo": "S.P. 90, 38 / Via S. Nicola di Pergoleto / Via del Mare / Via Abbazia / Via Donatori di Sangue",
-        "Città": "Galatone"
+        "Località": "Galatone"
       }
     },
 	{
@@ -223,7 +223,7 @@
       "properties": {
         "ID": "15",
         "Indirizzo": "Corso Italia, 88 / SP 361 / Via Cagliari",
-        "Città": "Gallipoli"
+        "Località": "Gallipoli"
       }
     },
   	{
@@ -238,7 +238,7 @@
       "properties": {
         "ID": "16",
         "Indirizzo": "Via Kennedy / Piazza Giovanni XXIII / Via Lecce Corso Roma / Corso Capo di Leuca",
-        "Città": "Gallipoli"
+        "Località": "Gallipoli"
       }
     },
 	{
@@ -253,7 +253,7 @@
       "properties": {
         "ID": "17",
         "Indirizzo": "S.P. 361, 177 / Via Principe di Piemonte, 177",
-        "Città": "Collepasso"
+        "Località": "Collepasso"
       }
     },
 	{
@@ -268,7 +268,7 @@
       "properties": {
         "ID": "18",
         "Indirizzo": "S.P. 361, 13 / Innesto S.S. 101",
-        "Città": "Gallipoli"
+        "Località": "Gallipoli"
       }
     },
 	{
@@ -283,7 +283,7 @@
       "properties": {
         "ID": "19",
         "Indirizzo": "Viale dei Pini, 25 / Via 1° Maggio",
-        "Città": "Giorgilorio (Surbo)"
+        "Località": "Giorgilorio (Surbo)"
       }
     },
 	{
@@ -298,7 +298,7 @@
       "properties": {
         "ID": "20",
         "Indirizzo": "Viale Ugo Foscolo, 33 / Via Gaetano Argento",
-        "Città": "Lecce"
+        "Località": "Lecce"
       }
     },
 	{
@@ -313,7 +313,7 @@
       "properties": {
         "ID": "21",
         "Indirizzo": "Viale Gioacchino Rossini, 9 / Via Regina Elena / Via Merine",
-        "Città": "Lecce"
+        "Località": "Lecce"
       }
     },
 	{
@@ -328,7 +328,7 @@
       "properties": {
         "ID": "22",
         "Indirizzo": "Viale Giuseppe Grassi, 94 / Via Lequile",
-        "Città": "Lecce"
+        "Località": "Lecce"
       }
     },
 	{
@@ -343,7 +343,7 @@
       "properties": {
         "ID": "23",
         "Indirizzo": "Viale Giovanni Paolo II, 32 / Via Pietro Cavoti / Via Giovanni Stano",
-        "Città": "Lecce"
+        "Località": "Lecce"
       }
     },
 	{
@@ -358,7 +358,7 @@
       "properties": {
         "ID": "24",
         "Indirizzo": "S.P. 364 (Lecce - San Cataldo) / Via Roggerone / Svincolo Tangenziale Est",
-        "Città": "Lecce"
+        "Località": "Lecce"
       }
     },
 	{
@@ -373,7 +373,7 @@
       "properties": {
         "ID": "25",
         "Indirizzo": "S.P. 241 / Via Vecchia Lizzanello / Via Ugo Foscolo",
-        "Città": "Lizzanello"
+        "Località": "Lizzanello"
       }
     },
 	{
@@ -388,7 +388,7 @@
       "properties": {
         "ID": "26",
         "Indirizzo": "S.P. 215, 2 / Via Ortisei / S.P. 330",
-        "Città": "Marina di Mancaversa (Taviano)"
+        "Località": "Marina di Mancaversa (Taviano)"
       }
     },
 	{
@@ -403,7 +403,7 @@
       "properties": {
         "ID": "27",
         "Indirizzo": "S.P. 366 / Via Lungomare Matteotti / S.P. 148",
-        "Città": "Torre Sant'Andrea (Melendugno)"
+        "Località": "Torre Sant'Andrea (Melendugno)"
       }
     },
 	{
@@ -418,7 +418,7 @@
       "properties": {
         "ID": "28",
         "Indirizzo": "S.P. 145, 47 / Viale Luigi Einaudi",
-        "Città": "Melendugno"
+        "Località": "Melendugno"
       }
     },
 	{
@@ -433,7 +433,7 @@
       "properties": {
         "ID": "29",
         "Indirizzo": "S.P. 366, Km 13 / Via Lungomare Matteotti",
-        "Città": "San Foca (Melendugno)"
+        "Località": "San Foca (Melendugno)"
       }
     },
 	{
@@ -448,7 +448,307 @@
       "properties": {
         "ID": "30",
         "Indirizzo": "S.P. 374, 4 / Via Dante Alighieri / Via Papa Giovanni XXIII",
-        "Città": "Miggiano"
+        "Località": "Miggiano"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.324940,
+          39.977031
+        ]
+      },
+      "properties": {
+        "ID": "31",
+        "Indirizzo": "S.S. 275, 88 / Via Castiglione",
+        "Località": "Montesano Salentino"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.323945,
+          39.980143
+        ]
+      },
+      "properties": {
+        "ID": "32",
+        "Indirizzo": "S.S. 275, 10 / Via della Libertà / Via Otranto",
+        "Località": "Montesano Salentino"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.340641,
+          39.875376
+        ]
+      },
+      "properties": {
+        "ID": "33",
+        "Indirizzo": "S.S. 275, 182 / Via Giosuè Carducci / S.P. 73",
+        "Località": "Montesardo (Alessano)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.140887,
+          40.052157
+        ]
+      },
+      "properties": {
+        "ID": "34",
+        "Indirizzo": "S.P. 334 / Zona P.I.P.",
+        "Località": "Parabita"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.388509,
+          40.048334
+        ]
+      },
+      "properties": {
+        "ID": "35",
+        "Indirizzo": "S.P. 363, 119 / Via Gabriele D'Annunzio / Via Enrico Toti",
+        "Località": "Vaste (Poggiardo)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.266840,
+          39.898257
+        ]
+      },
+      "properties": {
+        "ID": "36",
+        "Indirizzo": "Via Roma, 313 / Via Cesare Battisti / Via Guglielmo Marconi",
+        "Località": "Presicce"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.266591,
+          39.905840
+        ]
+      },
+      "properties": {
+        "ID": "37",
+        "Indirizzo": "S.P. 76 / Via Giuseppe Mazzini / Via Tito Schipa",
+        "Località": "Presicce"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.096486,
+          39.957470
+        ]
+      },
+      "properties": {
+        "ID": "38",
+        "Indirizzo": "Via Ugento, 65 / Via Tiberio / Via Confalonieri",
+        "Località": "Racale"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.345759,
+          39.792446
+        ]
+      },
+      "properties": {
+        "ID": "39",
+        "Indirizzo": "Via Fabio Filzi / Via Toma / Via Porcinara",
+        "Località": "Santa Maria di Leuca (Castrignano del Capo)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.201066,
+          40.145546
+        ]
+      },
+      "properties": {
+        "ID": "40",
+        "Indirizzo": "S.P. 362, Km 22 / Viale Italia / Via Spirito Santo",
+        "Località": "Sogliano Cavour"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.198087,
+          40.149987
+        ]
+      },
+      "properties": {
+        "ID": "41",
+        "Indirizzo": "S.P. 362, 36 / Viale Italia / Via Soleto",
+        "Località": "Sogliano Cavour"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.133159,
+          40.387968
+        ]
+      },
+      "properties": {
+        "ID": "42",
+        "Indirizzo": "Via Lecce, 180 / Via Brenta",
+        "Località": "Surbo"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.126181,
+          40.390925
+        ]
+      },
+      "properties": {
+        "ID": "43",
+        "Indirizzo": "S.P. 44 / Via Luigi Trabucco, 83 / Via Stazione / Via Appia Antica",
+        "Località": "Surbo"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.304339,
+          40.292163
+        ]
+      },
+      "properties": {
+        "ID": "44",
+        "Indirizzo": "S.P. 1 / S.P. 2 / Via Capitano Ramirez / S.P. 142",
+        "Località": "Vernole"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.336578,
+          40.329405
+        ]
+      },
+      "properties": {
+        "ID": "45",
+        "Indirizzo": "S.P. 366 / S.P. 143",
+        "Località": "Masseria Campione (Vernole)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.308952,
+          40.369442
+        ]
+      },
+      "properties": {
+        "ID": "46",
+        "Indirizzo": "S.P. 366",
+        "Località": "Vernole"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.412443,
+          40.041236
+        ]
+      },
+      "properties": {
+        "ID": "47",
+        "Indirizzo": "S.P. 363 / Via Giuseppe Garibaldi / Via della Resistenza",
+        "Località": "Vitigliano (Santa Cesarea Terme)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.407284,
+          40.041075
+        ]
+      },
+      "properties": {
+        "ID": "48",
+        "Indirizzo": "S.P. 363, 86 / Via Vittorio Emanuele III",
+        "Località": "Vitigliano (Santa Cesarea Terme)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.323057,
+          39.937557
+        ]
+      },
+      "properties": {
+        "ID": "49",
+        "Indirizzo": "S.P. 75 (Specchia-Tricase) / Strada Comunale Via San Rocco",
+        "Località": "Lucugnano (Tricase)"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.089641,
+          40.317895
+        ]
+      },
+      "properties": {
+        "ID": "50",
+        "Indirizzo": "Corso Umberto I / Via Monteroni / Corso Arno Circonvallazione / Via Merano",
+        "Località": "Monteroni di Lecce"
       }
     }
  ]
