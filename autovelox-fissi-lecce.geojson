@@ -15,7 +15,7 @@
         "name": "S.P. 04 Lecce-Novoli",
         "TIPO": "Autovelox Fisso",
         "INDIRIZZO": "Strada Provinciale 04 Lecce-Novoli",
-		"KM": "5+760"
+	"KM": "5+760"
         "DIREZIONE": "Lecce",
         "LIMITE": "50 Km/h"
       }
@@ -34,7 +34,7 @@
         "name": "S.P. 363 Santa Cesarea Terme-Maglie",
         "TIPO": "Autovelox Fisso",
         "INDIRIZZO": "Strada Provinciale 363 Santa Cesarea Terme-Maglie",
-		"DIREZIONE": "Maglie",
+	"DIREZIONE": "Maglie",
         "KM": "25+950",
         "LIMITE": "70 Km/h"
       }
@@ -53,7 +53,7 @@
         "name": "S.P. 363 Maglie-Santa Cesarea Terme",
         "TIPO": "Autovelox Fisso",
         "INDIRIZZO": "Strada Provinciale 363 Maglie-Santa Cesarea Terme",
-		"DIREZIONE": "Santa Cesarea Terme",
+	"DIREZIONE": "Santa Cesarea Terme",
         "KM": "31+039",
         "LIMITE": "70 Km/h"
       }
@@ -74,7 +74,7 @@
         "INDIRIZZO": "Strada Provinciale 366 Otranto-San Cataldo",
         "DIREZIONE": "San Cataldo",
         "KM": "27+083",
-		"LIMITE": "50 Km/h"
+	"LIMITE": "50 Km/h"
       }
     },
     {
@@ -88,12 +88,12 @@
       },
       "properties": {
         "ID": "5",
-		"name": "S.P. 366 San Cataldo-Otranto",
+	"name": "S.P. 366 San Cataldo-Otranto",
         "TIPO": "Autovelox Fisso",
         "INDIRIZZO": "Strada Provinciale 366 San Cataldo-Otranto",
         "DIREZIONE": "Otranto",
         "KM": "27+942",
-		"LIMITE": "50 Km/h"
+	"LIMITE": "50 Km/h"
       }
     }
   ]
