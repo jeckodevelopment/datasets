@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.253006,
+          39.906483
+        ]
+      },
+      "properties": {
+        "ID": "1",
+        "INDIRIZZO": "Corso Dante, 95 / Via Cesare Battisti",
+        "Città": "Acquarica del Capo",
+      }
+    }
+  ]
+}
