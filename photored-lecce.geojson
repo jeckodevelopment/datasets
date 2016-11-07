@@ -750,6 +750,36 @@
         "Indirizzo": "Corso Umberto I / Via Monteroni / Corso Arno Circonvallazione / Via Merano",
         "Località": "Monteroni di Lecce"
       }
-    }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.023903,
+          40.397929
+        ]
+      },
+      "properties": {
+        "ID": "51",
+        "Indirizzo": "Corso Italia / Via Novoli",
+        "Località": "Campi Salentina"
+      }
+    },
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          18.020445,
+          40.395313
+        ]
+      },
+      "properties": {
+        "ID": "52",
+        "Indirizzo": "Corso Italia / Via Dante Alighieri",
+        "Località": "Campi Salentina"
+      }
+    }  
  ]
 }
