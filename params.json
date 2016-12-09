@@ -1,0 +1,6 @@
+{
+  "name": "Datasets",
+  "tagline": "This repo hosts some open datasets.",
+  "body": "# Datasets\r\nThis repo hosts some open datasets.\r\n\r\n## Available datasets\r\n- [**autovelox-fissi-lecce**](https://github.com/jeckodevelopment/datasets/blob/master/autovelox-fissi-lecce.geojson) - List of all active fixed Autovelox (Speed cameras) in the Province of Lecce. | GeoJSON Format\r\n- [**photored-lecce**](https://github.com/jeckodevelopment/datasets/blob/master/photored-lecce.geojson) - List of all active Photored (Red Light Cameras) in the Province of Lecce. | GeoJSON Format\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
