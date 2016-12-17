@@ -11,6 +11,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "1",
         "Indirizzo": "Corso Dante, 95 / Via Cesare Battisti",
         "Località": "Acquarica del Capo"
@@ -26,6 +28,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "2",
         "Indirizzo": "Via Giuseppe di Vittorio / Via Aldo Moro / Via Epifanio Colletta",
         "Località": "Acquarica del Capo"
@@ -41,6 +45,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "3",
         "Indirizzo": "Corso Giacomo Matteotti / Via della Repubblica",
         "Località": "Acquarica del Capo"
@@ -56,6 +62,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "4",
         "Indirizzo": "S.S. 275, 73 / Via G. Urro / Via Portanova",
         "Località": "Alessano"
@@ -71,6 +79,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "5",
         "Indirizzo": "S.S. 7 Ter / Via Medaglie d'Oro / Via Maremonti / Via Vecchia Guagnano",
         "Località": "Campi Salentina"
@@ -86,6 +96,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "6",
         "Indirizzo": " S.S. 7 Ter / Viale Nino di Palma, 37 / Via Puglia",
         "Località": "Campi Salentina"
@@ -101,6 +113,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "7",
         "Indirizzo": "Via Baden Powell / Via Piemonte",
         "Località": "Campi Salentina"
@@ -116,6 +130,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "8",
         "Indirizzo": "S.P. 351 / Via Roma / Via Col. Galliano / Via Fiume",
         "Località": "Castrignano del Capo"
@@ -131,6 +147,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "9",
         "Indirizzo": "Via Leuca, 45 / Via Enrico De Nicola / Via Gioacchino Rossini",
         "Località": "Castromediano"
@@ -146,6 +164,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "10",
         "Indirizzo": "S.P. 61 / Via Santa Cesarea / Via Paluscella / S.P. 234 / Via Cadorna",
         "Località": "Cerfignano (Santa Cesarea Terme)"
@@ -161,6 +181,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "11",
         "Indirizzo": "Via Roma, 246 / S.P. 361 / Via Pietro Siciliani",
         "Località": "Collepasso"
@@ -176,6 +198,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "12",
         "Indirizzo": "S.P. 47 / Via Massimo D'Azeglio, 23 / Via Giorgio Almirante",
         "Località": "Galatone"
@@ -191,6 +215,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "13",
         "Indirizzo": "Via Gallipoli, 54 / Viale VIII Marzo / Via S. Nicola di Pergoleto",
         "Località": "Galatone"
@@ -206,6 +232,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "14",
         "Indirizzo": "S.P. 90, 38 / Via S. Nicola di Pergoleto / Via del Mare / Via Abbazia / Via Donatori di Sangue",
         "Località": "Galatone"
@@ -221,6 +249,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "15",
         "Indirizzo": "Corso Italia, 88 / SP 361 / Via Cagliari",
         "Località": "Gallipoli"
@@ -236,6 +266,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "16",
         "Indirizzo": "Via Kennedy / Piazza Giovanni XXIII / Via Lecce Corso Roma / Corso Capo di Leuca",
         "Località": "Gallipoli"
@@ -251,6 +283,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "17",
         "Indirizzo": "S.P. 361, 177 / Via Principe di Piemonte, 177",
         "Località": "Collepasso"
@@ -266,6 +300,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "18",
         "Indirizzo": "S.P. 361, 13 / Innesto S.S. 101",
         "Località": "Gallipoli"
@@ -281,6 +317,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "19",
         "Indirizzo": "Viale dei Pini, 25 / Via 1° Maggio",
         "Località": "Giorgilorio (Surbo)"
@@ -296,6 +334,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "20",
         "Indirizzo": "Viale Ugo Foscolo, 33 / Via Gaetano Argento",
         "Località": "Lecce"
@@ -311,6 +351,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "21",
         "Indirizzo": "Viale Gioacchino Rossini, 9 / Via Regina Elena / Via Merine",
         "Località": "Lecce"
@@ -326,6 +368,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "22",
         "Indirizzo": "Viale Giuseppe Grassi, 94 / Via Lequile",
         "Località": "Lecce"
@@ -341,6 +385,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "23",
         "Indirizzo": "Viale Giovanni Paolo II, 32 / Via Pietro Cavoti / Via Giovanni Stano",
         "Località": "Lecce"
@@ -356,6 +402,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "24",
         "Indirizzo": "S.P. 364 (Lecce - San Cataldo) / Via Roggerone / Svincolo Tangenziale Est",
         "Località": "Lecce"
@@ -371,6 +419,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "25",
         "Indirizzo": "S.P. 241 / Via Vecchia Lizzanello / Via Ugo Foscolo",
         "Località": "Lizzanello"
@@ -386,6 +436,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "26",
         "Indirizzo": "S.P. 215, 2 / Via Ortisei / S.P. 330",
         "Località": "Marina di Mancaversa (Taviano)"
@@ -401,6 +453,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "27",
         "Indirizzo": "S.P. 366 / Via Lungomare Matteotti / S.P. 148",
         "Località": "Torre Sant'Andrea (Melendugno)"
@@ -416,6 +470,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "28",
         "Indirizzo": "S.P. 145, 47 / Viale Luigi Einaudi",
         "Località": "Melendugno"
@@ -431,6 +487,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "29",
         "Indirizzo": "S.P. 366, Km 13 / Via Lungomare Matteotti",
         "Località": "San Foca (Melendugno)"
@@ -446,6 +504,8 @@
         ]
       },
       "properties": {
+	      "marker-symbol": "camera",
+"marker-color": "#e9a414",
         "ID": "30",
         "Indirizzo": "S.P. 374, 4 / Via Dante Alighieri / Via Papa Giovanni XXIII",
         "Località": "Miggiano"
@@ -461,6 +521,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "31",
         "Indirizzo": "S.S. 275, 88 / Via Castiglione",
         "Località": "Montesano Salentino"
@@ -476,6 +538,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "32",
         "Indirizzo": "S.S. 275, 10 / Via della Libertà / Via Otranto",
         "Località": "Montesano Salentino"
@@ -491,7 +555,9 @@
         ]
       },
       "properties": {
-        "ID": "33",
+       	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
+	"ID": "33",
         "Indirizzo": "S.S. 275, 182 / Via Giosuè Carducci / S.P. 73",
         "Località": "Montesardo (Alessano)"
       }
@@ -506,6 +572,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "34",
         "Indirizzo": "S.P. 334 / Zona P.I.P.",
         "Località": "Parabita"
@@ -521,6 +589,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "35",
         "Indirizzo": "S.P. 363, 119 / Via Gabriele D'Annunzio / Via Enrico Toti",
         "Località": "Vaste (Poggiardo)"
@@ -536,6 +606,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "36",
         "Indirizzo": "Via Roma, 313 / Via Cesare Battisti / Via Guglielmo Marconi",
         "Località": "Presicce"
@@ -551,6 +623,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "37",
         "Indirizzo": "S.P. 76 / Via Giuseppe Mazzini / Via Tito Schipa",
         "Località": "Presicce"
@@ -566,6 +640,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "38",
         "Indirizzo": "Via Ugento, 65 / Via Tiberio / Via Confalonieri",
         "Località": "Racale"
@@ -581,6 +657,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "39",
         "Indirizzo": "Via Fabio Filzi / Via Toma / Via Porcinara",
         "Località": "Santa Maria di Leuca (Castrignano del Capo)"
@@ -596,6 +674,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "40",
         "Indirizzo": "S.P. 362, Km 22 / Viale Italia / Via Spirito Santo",
         "Località": "Sogliano Cavour"
@@ -611,6 +691,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "41",
         "Indirizzo": "S.P. 362, 36 / Viale Italia / Via Soleto",
         "Località": "Sogliano Cavour"
@@ -626,6 +708,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "42",
         "Indirizzo": "Via Lecce, 180 / Via Brenta",
         "Località": "Surbo"
@@ -641,6 +725,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "43",
         "Indirizzo": "S.P. 44 / Via Luigi Trabucco, 83 / Via Stazione / Via Appia Antica",
         "Località": "Surbo"
@@ -656,6 +742,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "44",
         "Indirizzo": "S.P. 1 / S.P. 2 / Via Capitano Ramirez / S.P. 142",
         "Località": "Vernole"
@@ -671,6 +759,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "45",
         "Indirizzo": "S.P. 366 / S.P. 143",
         "Località": "Masseria Campione (Vernole)"
@@ -686,6 +776,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "46",
         "Indirizzo": "S.P. 366",
         "Località": "Vernole"
@@ -701,6 +793,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "47",
         "Indirizzo": "S.P. 363 / Via Giuseppe Garibaldi / Via della Resistenza",
         "Località": "Vitigliano (Santa Cesarea Terme)"
@@ -716,6 +810,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "48",
         "Indirizzo": "S.P. 363, 86 / Via Vittorio Emanuele III",
         "Località": "Vitigliano (Santa Cesarea Terme)"
@@ -731,6 +827,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#a60404",
         "ID": "49",
         "Indirizzo": "S.P. 75 (Specchia-Tricase) / Strada Comunale Via San Rocco",
         "Località": "Lucugnano (Tricase)"
@@ -746,6 +844,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "50",
         "Indirizzo": "Corso Umberto I / Via Monteroni / Corso Arno Circonvallazione / Via Merano",
         "Località": "Monteroni di Lecce"
@@ -761,6 +861,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "51",
         "Indirizzo": "Corso Italia / Via Novoli",
         "Località": "Campi Salentina"
@@ -776,6 +878,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "camera",
+	"marker-color": "#e9a414",
         "ID": "52",
         "Indirizzo": "Corso Italia / Via Dante Alighieri",
         "Località": "Campi Salentina"
