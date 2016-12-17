@@ -3,7 +3,6 @@ This repository hosts some **open data** about local **speed cameras** and **red
 
 ### Note
 This repository contains data about cameras' routes and position.
-
 If you want to check the time of service, please look at www.autoveloxlecce.it 
 
 ## Available datasets
