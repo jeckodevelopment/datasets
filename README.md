@@ -6,6 +6,7 @@ Main focus at the moment is to maintain open data about local speed and red ligh
 
 ## Available datasets
 - [**autovelox-fissi-lecce**](https://github.com/jeckodevelopment/datasets/blob/master/autovelox-fissi-lecce.geojson) - List of all active fixed Autovelox (Speed cameras) in the Province of Lecce. | GeoJSON Format
+- [**autovelox-mobili-lecce**](https://github.com/jeckodevelopment/datasets/blob/master/autovelox-mobili-lecce.geojson) - List of all routes checked by mobile/temporary Autovelox (Speed cameras) in the Province of Lecce. | GeoJSON Format
 - [**photored-lecce**](https://github.com/jeckodevelopment/datasets/blob/master/photored-lecce.geojson) - List of all active Photored (Red Light Cameras) in the Province of Lecce. | GeoJSON Format
 
 ## How to use data
