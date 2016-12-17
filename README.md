@@ -1,8 +1,5 @@
-# Datasets
-This repository hosts some open datasets.
-
-## Type of Data
-Main focus at the moment is to maintain open data about local speed cameras and red light cameras throughout the Province of Lecce, Italy.
+# Traffic Open Data
+This repository hosts some **open data** about local **speed cameras** and **red-light cameras**.
 
 ### Note
 This repository contains data about cameras' routes and position. If you want to check the time of service, please look at www.autoveloxlecce.it 
