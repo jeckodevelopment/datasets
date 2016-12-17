@@ -13,6 +13,15 @@ Main focus at the moment is to maintain open data about local speed and red ligh
 | [**photored-lecce**](https://github.com/jeckodevelopment/datasets/blob/master/photored-lecce.geojson) | List of all active Photored (Red Light Cameras) in the Province of Lecce. | GeoJSON Format |
 | [**autovelox-mobili-brindisi**](https://github.com/jeckodevelopment/datasets/blob/master/autovelox-mobili-brindisi.geojson) | List of all routes checked by mobile/temporary Autovelox (Speed cameras) in the Province of Brindisi. | GeoJSON Format |
 
+## How to read data
+Different colors and pointers are used in order to mark different operators of the service.
+### Legend
+| Colour | Meaning |
+| ------ | ------- |
+| Blue | Polizia Stradale |
+| Yellow | Polizia Locale |
+| Red | Polizia Provinciale |
+
 ## How to use data
 You're more than welcome to use and implement these datasets provided in GeoJSON format in your applications and services.
 If you use them, please let us know, we'll be happy to see your implementation.
