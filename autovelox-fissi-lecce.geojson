@@ -11,6 +11,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "police",
+	"marker-color": "#a60404",
         "ID": "1",
         "name": "S.P. 04 Lecce-Novoli",
         "TIPO": "Autovelox Fisso",
@@ -30,6 +32,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "police",
+	"marker-color": "#a60404",
         "ID": "2",
         "name": "S.P. 363 Santa Cesarea Terme-Maglie",
         "TIPO": "Autovelox Fisso",
@@ -49,6 +53,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "police",
+	"marker-color": "#a60404",
         "ID": "3",
         "name": "S.P. 363 Maglie-Santa Cesarea Terme",
         "TIPO": "Autovelox Fisso",
@@ -68,6 +74,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "police",
+	"marker-color": "#a60404",
         "ID": "4",
         "name": "S.P. 366 Otranto-San Cataldo",
         "TIPO": "Autovelox Fisso",
@@ -87,6 +95,8 @@
         ]
       },
       "properties": {
+	"marker-symbol": "police",
+	"marker-color": "#a60404",
         "ID": "5",
 	"name": "S.P. 366 San Cataldo-Otranto",
         "TIPO": "Autovelox Fisso",
