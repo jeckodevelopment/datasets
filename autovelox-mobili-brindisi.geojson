@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e9a414",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "S.S.": 613,
+        "Km": "10+450",
+        "Operato da": "Polizia Locale San Pietro Vernotico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.005390167236328,
+          40.53738387130841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e9a414",
+        "marker-size": "medium",
+        "marker-symbol": "police",
+        "S.S.": 613,
+        "Km": "16+200",
+        "Operato da": "Polizia Locale Torchiarolo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.036203384399414,
+          40.49448156204837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#024efd",
+        "stroke-width": 4,
+        "stroke-opacity": 1,
+        "S.S.": 379,
+        "Nome": "Bari - Brindisi",
+        "Operato da": "Polizia Stradale"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            17.91292905807495,
+            40.647254720523414
+          ],
+          [
+            17.912113666534424,
+            40.64837807745909
+          ],
+          [
+            17.911341190338135,
+            40.64922465279954
+          ],
+          [
+            17.90994644165039,
+            40.65044565600955
+          ],
+          [
+            17.908337116241455,
+            40.651373603507274
+          ],
+          [
+            17.906599044799805,
+            40.65213874349124
+          ],
+          [
+            17.904131412506104,
+            40.65321318057263
+          ],
+          [
+            17.901298999786377,
+            40.65446666863383
+          ],
+          [
+            17.899367809295654,
+            40.655313166730075
+          ],
+          [
+            17.897050380706787,
+            40.656354995797116
+          ],
+          [
+            17.895290851593018,
+            40.657380530395315
+          ],
+          [
+            17.89449691772461,
+            40.658096767431374
+          ]
+        ]
+      }
+    }
+  ]
+}
