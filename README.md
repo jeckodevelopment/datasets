@@ -16,7 +16,7 @@ Main focus at the moment is to maintain open data about local speed and red ligh
 ## How to read data
 Different colors and pointers are used in order to mark different operators of the service.
 ### Legend
-| Colour | Meaning |
+| Color | Meaning |
 | ------ | ------- |
 | Blue | Polizia Stradale |
 | Yellow | Polizia Locale |
