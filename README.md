@@ -16,11 +16,11 @@ Main focus at the moment is to maintain open data about local speed and red ligh
 ## How to read data
 Different colors and pointers are used in order to mark different operators of the service.
 ### Legend
-| Color | Meaning |
-| ------ | ------- |
-| Blue | Polizia Stradale |
-| Yellow | Polizia Locale |
-| Red | Polizia Provinciale |
+| Exa | Color | Meaning |
+| ------ | ------ | ------- |
+| #024efd | Blue | Polizia Stradale |
+| #e9a414 | Yellow | Polizia Locale |
+| #a60404 | Red | Polizia Provinciale |
 
 ## How to use data
 You're more than welcome to use and implement these datasets provided in GeoJSON format in your applications and services.
